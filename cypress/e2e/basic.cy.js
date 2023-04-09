@@ -4,7 +4,7 @@ describe('empty spec', () => {
   })
 
   it('opens the index page', () => {
-    cy.get('h1').contains('Great coffee with a conscience')
+    cy.get('h1').contains('Try out GTP-4')
   })
 
   it('navigates to the product page', () => {
